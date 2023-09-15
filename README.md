@@ -2,6 +2,15 @@
 
 ![](pic.png)
 
+## Table of Contents
+
+- [Assignment1: Blood Donation Analysis](#assignment1)
+- [Assignment2 - Part1: Maternal Health Risk Analysis](#assignment2---part1)
+- [Assignment2 - Part2: Speech Features Classification](#assignment2---part2)
+- [Assignment3 - Part1: Facial Recognition with PCA and MLP](#assignment3---part1)
+- [Assignment3 - Part2: Clustering Analysis with K-Means, Fuzzy C-Means, and DBSCAN](#assignment3---part2)
+
+
 # Assignment1
 
 ## Project Description
