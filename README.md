@@ -70,7 +70,5 @@ For each model, the following evaluation metrics are calculated:
 - Cross-validation score (average accuracy)
 - Confusion matrix
 
-### 4. Principal Component Analysis (PCA)
-????
 
 
